@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/randomquote/static/css/main.d1b05096.chunk.css",
+    "main.js": "/randomquote/static/js/main.2e7c6f1d.chunk.js",
+    "main.js.map": "/randomquote/static/js/main.2e7c6f1d.chunk.js.map",
+    "runtime-main.js": "/randomquote/static/js/runtime-main.5d75b14d.js",
+    "runtime-main.js.map": "/randomquote/static/js/runtime-main.5d75b14d.js.map",
+    "static/js/2.4c4c0ec0.chunk.js": "/randomquote/static/js/2.4c4c0ec0.chunk.js",
+    "static/js/2.4c4c0ec0.chunk.js.map": "/randomquote/static/js/2.4c4c0ec0.chunk.js.map",
+    "index.html": "/randomquote/index.html",
+    "precache-manifest.4ef27c62b6af5cb7db3baaa074bae5da.js": "/randomquote/precache-manifest.4ef27c62b6af5cb7db3baaa074bae5da.js",
+    "service-worker.js": "/randomquote/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/randomquote/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4c4c0ec0.chunk.js.LICENSE.txt": "/randomquote/static/js/2.4c4c0ec0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/randomquote/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d75b14d.js",
+    "static/js/2.4c4c0ec0.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.2e7c6f1d.chunk.js"
+  ]
+}
